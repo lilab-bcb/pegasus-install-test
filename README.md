@@ -1,1 +1,1 @@
-# sccloud-platform-test
+# pegasus-platform-test
