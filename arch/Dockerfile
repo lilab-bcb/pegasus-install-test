@@ -1,5 +1,5 @@
-FROM archlinux/base:latest
+FROM archlinux
 
-RUN pacman -Sy --noconfirm base-devel python python-pip
+RUN pacman -Sy --noconfirm base-devel python python-pip git cmake
 
-RUN pip install sccloud==0.14.rc3
+RUN pip install pegasuspy
