@@ -1,1 +1,1 @@
-docker build -t sccloud-archlinux .
+docker build -t pegasus-archlinux .
